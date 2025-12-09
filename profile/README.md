@@ -68,24 +68,29 @@ ESP32-based systems, PCB design, sensors, power electronics, and physical-digita
 Traditional craftsmanship pushed forward by digital precision, chemistry, and handmade detailing.
 
 ---
-
 ## Our Principles
 
-### **1. What we build must matter, and it must respect the world it enters.**  
+### **1. Purpose**  
+What we build must matter, and it must respect the world it enters.  
 We evaluate every product by its purpose, environmental impact, energy efficiency, and potential for repair and reuse.
 
-### **2. We don’t create things just because we can.**  
+### **2. Restraint**  
+We are not creating because we can.  
+We create only when it serves a real purpose.  
 Technology is not spectacle.  
-A project must meet a real need without unnecessary resource consumption.
+A project must meet a true need without unnecessary resource consumption.
 
-### **3. The perfect product is the responsible one.**  
+### **3. Responsibility**  
+The perfect product is the responsible one.  
 Not the product with the most features, but the one that fulfills its purpose with clarity.  
 A tool should serve without excess — built with stability, safety, longevity, and energy-conscious design.
 
-### **4. In software and hardware, best practices are the minimum acceptable standard.**  
+### **4. Integrity**  
+In software and hardware, best practices are the minimum acceptable standard.  
 Security, durability, transparency, and sustainability guide every line of code and every circuit we build.
 
-### **5. We build, we learn, we share — with purpose and boundaries.**  
+### **5. Boundaries**  
+We build, we learn, we share — with purpose and boundaries.  
 We share open-source tools, knowledge, and processes when it benefits the community.  
 But custom client work, commercial products, and private systems remain protected, always respecting confidentiality and responsibility.
 
