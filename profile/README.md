@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://ateljevagabond.se/assets/images/og-image.webp" width="900" alt="Ateljé Vagabond OG Image"/>
+  <img src="https://ateljevagabond.se/assets/images/og-image.webp" width="75%" alt="Ateljé Vagabond OG Image"/>
 </p>
-
 <h2 align="center">Ateljé Vagabond</h2>
 
 <p align="center">
