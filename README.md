@@ -5,7 +5,7 @@
 <h2 align="center">Ateljé Vagabond</h2>
 
 <p align="center">
-Where art, code, hardware, and metalwork shape tools and ideas under one atelier, crafted with love.
+Where art, code, hardware, and metalwork shape tools and ideas under one atelier, crafted with love 
 </p>
 
 ---
@@ -69,31 +69,33 @@ ESP32-based systems, PCB design, sensors, power electronics, and physical-digita
 Traditional craftsmanship pushed forward by digital precision, chemistry, and handmade detailing.
 
 ---
-## Our Principles
 
-### **1. Purpose**  
-What we build must matter, and it must respect the world it enters.  
-We evaluate every product by its purpose, environmental impact, energy efficiency, and potential for repair and reuse.
+# Our “STANCE” Manifesto
 
-### **2. Restraint**  
-We are not creating because we can.  
-We create only when it serves a real purpose.  
-Technology is not spectacle.  
-A project must meet a true need without unnecessary resource consumption.
+- **S — Sustainability**  
+  What we build must matter and respect the world it enters.  
+  We evaluate impact, energy efficiency, repairability, and longevity.
 
-### **3. Responsibility**  
-The perfect product is the responsible one.  
-Not the product with the most features, but the one that fulfills its purpose with clarity.  
-A tool should serve without excess — built with stability, safety, longevity, and energy-conscious design.
+- **T — Thoughtfulness**  
+  We do not create because we can.  
+  We build with intention, restraint, and clarity of purpose.
 
-### **4. Integrity**  
-In software and hardware, best practices are the minimum acceptable standard.  
-Security, durability, transparency, and sustainability guide every line of code and every circuit we build.
+- **A — Augmentation**  
+  AI and modern tools expand our capacity to think, learn, and create.  
+  Technology is a multiplier, not a replacement for human judgment.
 
-### **5. Boundaries**  
-We build, we learn, we share — with purpose and boundaries.  
-We share open-source tools, knowledge, and processes when it benefits the community.  
-But custom client work, commercial products, and private systems remain protected, always respecting confidentiality and responsibility.
+- **N — Necessity**  
+  A product must serve a real need, without excess or spectacle.  
+  Resource use must always be justified.
+
+- **C — Craft**  
+  Quality is the baseline.  
+  Security, durability, engineering clarity, and honest craftsmanship guide everything we build.
+
+- **E — Ethics**  
+  We share openly when it benefits the community,  
+  and we protect what must remain private.  
+  Responsibility defines our boundaries.
 
 ---
 
@@ -113,5 +115,5 @@ Coming soon.
 ---
 
 <p align="center">
-  <sub>Built in Sweden. Crafted with love.</sub>
+  <sub>Built in Sweden. Crafted with Love</sub>
 </p>
