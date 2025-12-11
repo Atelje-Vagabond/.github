@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/atelje-vagabond-logo.png" width="100%" alt="Ateljé Vagabond Logo"/>
+  <img src="assets/images/atelje-vagabond-logo.png" width="741px" alt="Ateljé Vagabond Logo"/>
 </p>
 
 <h2 align="center">Ateljé Vagabond</h2>
