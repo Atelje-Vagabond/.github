@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/atelje-vagabond-logo.png" width="741px" alt="Ateljé Vagabond Logo"/>
+  <img src="https://raw.githubusercontent.com/Atelje-Vagabond/.github/refs/heads/main/profile/assets/images/atelje-vagabond-logo.png" width="741px" alt="Ateljé Vagabond Logo"/>
 </p>
 
 <h2 align="center">Ateljé Vagabond</h2>
