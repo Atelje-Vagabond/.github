@@ -75,6 +75,31 @@ We believe the objects you carry should hold weight, memory, and story. That is 
 
 ---
 
+## Fuel the Workshop
+
+<table>
+<tr>
+<td width="72%">
+
+Some projects begin with a sketch. Others begin with a failing test, an ESP32 on the bench, or a piece of metal waiting for its next life. Coffee tends to be present for all of them.
+
+If our open-source work saved you an afternoon, helped a device ship, or sparked an experiment of your own, you can help keep the next build moving.
+
+<a href="https://buymeacoffee.com/ateljevagabond"><img src="https://img.shields.io/badge/Fuel_the_Workshop-Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=111111" alt="Support Ateljé Vagabond on Buy Me a Coffee"/></a>
+
+</td>
+<td width="28%" align="center">
+
+<a href="https://buymeacoffee.com/ateljevagabond"><img src="assets/images/buy-me-a-coffee-qr.png" width="180" alt="QR code for Ateljé Vagabond on Buy Me a Coffee"/></a>
+
+<sub>Scan to support the next experiment.</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
 **hej@ateljevagabond.se** · Landskrona, Sweden
